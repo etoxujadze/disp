@@ -1,0 +1,32 @@
+.flex-container {
+    display: flex;
+    background-color: #DAA520;
+    width: 1440px;
+    height: 1024px;
+    
+}
+.cont {
+    width: 365px;
+    height: 365px;
+    background-color: #297E40;
+    border-radius: 12px;
+    margin-left: 30px;
+    margin-top: 32px;
+}
+.nam {
+    width: 365px;
+    height: 365px;
+    border-radius: 90px;
+    opacity: 90%;
+    background-color: #8E2877;
+    margin-left: 30px ;
+    margin-top: 32px;
+}
+.teg {
+    width: 365px;
+    height: 365px;
+    border-radius: 20px;
+    background-color: #361BA4;
+    margin-left: 30px;
+    margin-top: 32px;
+}
