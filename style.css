@@ -1,9 +1,8 @@
 .flex-container {
-    display: flex;
-    background-color: #DAA520;
-    width: 1440px;
-    height: 1024px;
-    
+    display: flex;  
+}
+body {
+    background-color: #dAA520;
 }
 .cont {
     width: 365px;
